@@ -1,2 +1,2 @@
 # R5T.NetStandard.DI
-A dependency-injection (DI) library.
+A library for dependency-injection (DI) related functionality
